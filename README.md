@@ -3,7 +3,7 @@ This C program provides a simple command-line interface for password input and v
 
 ### Features
 * Secure Input: Utilizes _getch() to capture user input without displaying it on the screen.
-*Basic Password Management: Reads a saved password from password.txt and compares it with user input.
+* Basic Password Management: Reads a saved password from password.txt and compares it with user input.
 * User-Friendly Interface: Provides feedback on login success or failure.
 
 ### Usage
